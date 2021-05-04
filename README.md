@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BHznJNs
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Electrom.js
+- 🌱 I’m currently learning Electron.js
 
 <!---
 BHznJNs/BHznJNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
