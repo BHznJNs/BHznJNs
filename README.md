@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @BHznJNs
+<ul>
+  <li>一个热爱编程的穷学生</li>
+</ul>
 
 <!---
 BHznJNs/BHznJNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
