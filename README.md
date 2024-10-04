@@ -6,6 +6,7 @@
   - [Rusditor](https://github.com/BHznJNs/Rusditor)
 - C/C++ learner
   - [write_cpp_with_rust_syntax](https://github.com/BHznJNs/write_cpp_with_rust_syntax)
+  - [lldb-cmake-project-template](https://github.com/BHznJNs/lldb-cmake-project-template)
 
 <!---
 BHznJNs/BHznJNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
