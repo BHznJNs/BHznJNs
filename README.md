@@ -2,7 +2,7 @@ An average student with a strong dedication to programming.
 
 I am a:
 - Front-end developer
-  - [My blog](https://github.com/BHznJNs/markdown-blog) and the [template](https://github.com/BHznJNs/markdown-blog-template) of it
+  - [My blog](https://bhznjns.github.io/) and the [template](https://github.com/BHznJNs/markdown-blog-template) of it
   - [hanzi2kanji](https://github.com/BHznJNs/hanzi2kanji)
   - [multilang-counter](https://github.com/BHznJNs/multilang-counter)
 - Rustacean
