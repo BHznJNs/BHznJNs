@@ -4,7 +4,7 @@ I am a:
 - Front-end developer
   - [My blog](https://bhznjns.github.io/), the [template](https://github.com/BHznJNs/markdown-blog-template) of it and the [VSCode extension](https://github.com/BHznJNs/markdown-blog-ext) works with it.
   - [hanzi2kanji](https://github.com/BHznJNs/hanzi2kanji)
-  - [multilang-counter](https://github.com/BHznJNs/multilang-counter)
+  - [multi-counter](https://github.com/BHznJNs/multi-counter)
 - Rustacean
   - [Calculator.rs](https://github.com/BHznJNs/Calculator.rs)
   - [Rusditor](https://github.com/BHznJNs/Rusditor)
