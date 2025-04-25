@@ -17,5 +17,7 @@ I am a:
   - [lldb-cmake-project-template](https://github.com/BHznJNs/lldb-cmake-project-template)
 - Flutter & Dart learner
   - [NFC-PLinkD](https://github.com/BHznJNs/NFC-PLinkD)
+  - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
+  - [flutter_android_template](https://github.com/BHznJNs/flutter_android_template)
 - Android & Kotlin learner
   - [InputShare-android](https://github.com/BHznJNs/InputShare-android/)
