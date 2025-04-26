@@ -1,6 +1,16 @@
 An average student with a strong dedication to programming.
 
-![BHznJNs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHznJNs&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BHznJNs&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BHznJNs"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BHznJNs" />
+</picture>
 
 I am a:
 - Front-end developer
