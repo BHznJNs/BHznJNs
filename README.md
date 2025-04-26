@@ -1,5 +1,3 @@
-An average student with a strong dedication to programming.
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=BHznJNs&theme=dark"
@@ -11,6 +9,8 @@ An average student with a strong dedication to programming.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=BHznJNs" />
 </picture>
+
+An average student with a strong dedication to programming.
 
 I am a:
 - Front-end developer
