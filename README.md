@@ -1,5 +1,7 @@
 An average student with a strong dedication to programming.
 
+![BHznJNs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHznJNs)
+
 I am a:
 - Front-end developer
   - [My blog](https://bhznjns.github.io/), the [template](https://github.com/BHznJNs/BaSB) of it and the [VSCode extension](https://github.com/BHznJNs/BaSB-ext) works with it.
