@@ -1,14 +1,5 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BHznJNs&role=owner,collaborator&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BHznJNs&role=owner,collaborator"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BHznJNs&role=owner,collaborator" />
-</picture>
+[![BHznJNs's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BHznJNs&hide_border=true&role=owner,collaborator&theme=dark#gh-dark-mode-only)](https://github.com/BHznJNs#gh-dark-mode-only)
+[![BHznJNs's GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BHznJNs&hide_border=true&role=owner,collaborator#gh-light-mode-only)](https://github.com/BHznJNs#gh-light-mode-only)
 
 An average student with a strong dedication to programming.
 
