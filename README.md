@@ -24,3 +24,5 @@ I am a:
   - [lldb-cmake-project-template](https://github.com/BHznJNs/lldb-cmake-project-template)
 - Android & Kotlin learner
   - [InputShare-android](https://github.com/BHznJNs/InputShare-android/)
+- Docker learner
+  - [mcp-all-in-one](https://github.com/BHznJNs/mcp-all-in-one)
