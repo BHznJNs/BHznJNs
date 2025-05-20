@@ -25,4 +25,4 @@ I am a:
 - Android & Kotlin learner
   - [InputShare-android](https://github.com/BHznJNs/InputShare-android/)
 - Docker learner
-  - [mcp-all-in-one](https://github.com/BHznJNs/mcp-all-in-one)
+  - [One MCP](https://github.com/One-MCP/one-mcp)
