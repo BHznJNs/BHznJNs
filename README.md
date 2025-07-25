@@ -22,6 +22,7 @@ I am a:
 - C/C++ learner
   - [write_cpp_with_rust_syntax](https://github.com/BHznJNs/write_cpp_with_rust_syntax)
   - [lldb-cmake-project-template](https://github.com/BHznJNs/lldb-cmake-project-template)
+  - [SenseVoice.cpp-repl](https://github.com/BHznJNs/SenseVoice.cpp-repl)
 - Android & Kotlin learner
   - [InputShare-android](https://github.com/BHznJNs/InputShare-android/)
 - Docker learner
