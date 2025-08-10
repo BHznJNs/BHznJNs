@@ -25,5 +25,8 @@ I am a:
   - [SenseVoice.cpp-repl](https://github.com/BHznJNs/SenseVoice.cpp-repl)
 - Android & Kotlin learner
   - [InputShare-android](https://github.com/BHznJNs/InputShare-android/)
+- CI/CD learner
+  - [setup-python-embedded](https://github.com/BHznJNs/setup-python-embedded)
+  - [pystand-build](https://github.com/BHznJNs/pystand-build)
 - Docker learner
   - [One MCP](https://github.com/One-MCP/one-mcp)
