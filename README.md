@@ -5,7 +5,7 @@ An average student with a strong dedication to programming.
 
 I am a:
 - Front-end developer
-  - [My blog](https://bhznjns.github.io/), the [template](https://github.com/BHznJNs/BaSB) of it and the [VSCode extension](https://github.com/BHznJNs/BaSB-ext) works with it.
+  - [My blog](https://bhznjns.github.io/), the [template](https://github.com/BHznJNs/BaSB) of it, the [VSCode extension](https://github.com/BHznJNs/BaSB-ext) and the [MCP server](https://github.com/BHznJNs/BaSB-MCP) works with it.
   - [hanzi2kanji](https://github.com/BHznJNs/hanzi2kanji)
   - [multi-counter](https://github.com/BHznJNs/multi-counter)
 - Flutter is also front-end :)
