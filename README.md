@@ -28,5 +28,3 @@ I am a:
 - CI/CD learner
   - [setup-python-embedded](https://github.com/BHznJNs/setup-python-embedded)
   - [pystand-build](https://github.com/BHznJNs/pystand-build)
-- Docker learner
-  - [One MCP](https://github.com/One-MCP/one-mcp)
