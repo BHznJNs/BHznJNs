@@ -12,6 +12,8 @@ I am a:
   - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
   - [flutter_android_template](https://github.com/BHznJNs/flutter_android_template)
   - [NFC-PLinkD](https://github.com/BHznJNs/NFC-PLinkD)
+- Full Stack Engineer
+  - [LLM Hooks](https://github.com/LLM-Hooks/llm-hooks)
 - Rustacean
   - [Calculator.rs](https://github.com/BHznJNs/Calculator.rs)
   - [Rusditor](https://github.com/BHznJNs/Rusditor)
