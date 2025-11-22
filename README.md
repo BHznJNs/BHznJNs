@@ -20,6 +20,7 @@ I am a:
   - [json-parser](https://github.com/BHznJNs/json-parser)
 - Python geek
   - [InputShare](https://github.com/BHznJNs/InputShare)
+  - [LiteAI-SDK](https://github.com/BHznJNs/liteai)
   - [PyQWebWindow](https://github.com/BHznJNs/PyQWebWindow)
 - C/C++ learner
   - [write_cpp_with_rust_syntax](https://github.com/BHznJNs/write_cpp_with_rust_syntax)
