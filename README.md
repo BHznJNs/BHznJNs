@@ -29,5 +29,6 @@ I am a:
 - Android & Kotlin learner
   - [InputShare-android](https://github.com/BHznJNs/InputShare-android/)
 - CI/CD learner
+  - [msix-build](https://github.com/BHznJNs/msix-build)
   - [setup-python-embedded](https://github.com/BHznJNs/setup-python-embedded)
   - [pystand-build](https://github.com/BHznJNs/pystand-build)
