@@ -11,12 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate light stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&hide_border=true&role=owner,collaboratory
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide_border=true&role=owner,collaborator&theme=dark
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
