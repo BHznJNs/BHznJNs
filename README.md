@@ -8,12 +8,14 @@ I am a:
   - [My blog](https://bhznjns.github.io/), the [template](https://github.com/BHznJNs/BaSB) of it, the [VSCode extension](https://github.com/BHznJNs/BaSB-ext) and the [MCP server](https://github.com/BHznJNs/BaSB-MCP) works with it.
   - [hanzi2kanji](https://github.com/BHznJNs/hanzi2kanji)
   - [multi-counter](https://github.com/BHznJNs/multi-counter)
+- LLM Agent developer
+  - [Dais](https://github.com/Dais-Project/Dais)
+  - [Dais-SDK](https://github.com/Dais-Project/Dais-SDK)
+  - [Dais-Shell](https://github.com/Dais-Project/Dais-Shell)
 - Flutter is also front-end :)
   - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
   - [flutter_android_template](https://github.com/BHznJNs/flutter_android_template)
   - [NFC-PLinkD](https://github.com/BHznJNs/NFC-PLinkD)
-- Full Stack Engineer
-  - [LLM Hooks](https://github.com/LLM-Hooks/llm-hooks)
 - Rustacean
   - [Calculator.rs](https://github.com/BHznJNs/Calculator.rs)
   - [Rusditor](https://github.com/BHznJNs/Rusditor)
