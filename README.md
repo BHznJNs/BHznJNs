@@ -22,8 +22,8 @@ I am a:
   - [json-parser](https://github.com/BHznJNs/json-parser)
 - Python geek
   - [InputShare](https://github.com/BHznJNs/InputShare)
-  - [LiteAI-SDK](https://github.com/BHznJNs/liteai)
   - [PyQWebWindow](https://github.com/BHznJNs/PyQWebWindow)
+  - [scrcpy_client](https://github.com/BHznJNs/scrcpy_client)
 - C/C++ learner
   - [write_cpp_with_rust_syntax](https://github.com/BHznJNs/write_cpp_with_rust_syntax)
   - [lldb-cmake-project-template](https://github.com/BHznJNs/lldb-cmake-project-template)
