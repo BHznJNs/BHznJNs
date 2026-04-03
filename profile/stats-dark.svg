@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">BHznJNs' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1269, Total Commits  (last year) : 1333, Total PRs: 56, Total Issues: 73, Contributed to (last year): 44</desc>
+        <desc id="descId">Total Stars Earned: 1271, Total Commits  (last year) : 1347, Total PRs: 56, Total Issues: 73, Contributed to (last year): 44</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.82740238581592;
+        stroke-dashoffset: 59.78300220919031;
       }
     }
   
