@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">BHznJNs' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1302, Total Commits  (last year) : 1513, Total PRs: 65, Total Issues: 76, Contributed to (last year): 41</desc>
+        <desc id="descId">Total Stars Earned: 1302, Total Commits  (last year) : 1513, Total PRs: 65, Total Issues: 76, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="contribs"
-      >41</text>
+      >39</text>
     </g>
   </g>
     </svg>
