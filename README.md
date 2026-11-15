@@ -17,9 +17,9 @@ I am a:
   - [flutter_android_template](https://github.com/BHznJNs/flutter_android_template)
   - [NFC-PLinkD](https://github.com/BHznJNs/NFC-PLinkD)
 - Rustacean
+  - [prebuilt-down](https://github.com/BHznJNs/prebuilt-down)
   - [Calculator.rs](https://github.com/BHznJNs/Calculator.rs)
   - [Rusditor](https://github.com/BHznJNs/Rusditor)
-  - [json-parser](https://github.com/BHznJNs/json-parser)
 - Python geek
   - [InputShare](https://github.com/BHznJNs/InputShare)
   - [PyQWebWindow](https://github.com/BHznJNs/PyQWebWindow)
